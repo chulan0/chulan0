@@ -34,13 +34,13 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ██████████████████████░░░   88.46 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   21 repos            ██████████████████████░░░   87.50 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 03/05/2023 18:34:39 UTC
+ Last Updated on 04/05/2023 18:34:23 UTC
 <!--END_SECTION:waka-->
