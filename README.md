@@ -13,15 +13,15 @@
 <span><img src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true" height=188/></span>&nbsp;<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-clan&layout=compact&langs_count=5card_width=466" height=188/></span>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-873.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-539.9%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-🌆 Daytime                502 commits         ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-🌃 Evening                693 commits         ██████████░░░░░░░░░░░░░░░   40.98 % 
-🌙 Night                  338 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌞 Morning                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+🌆 Daytime                415 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌃 Evening                553 commits         ██████████░░░░░░░░░░░░░░░   40.28 % 
+🌙 Night                  257 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 ```
 
 
@@ -42,5 +42,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2023 18:34:48 UTC
+ Last Updated on 23/05/2023 18:35:00 UTC
 <!--END_SECTION:waka-->
