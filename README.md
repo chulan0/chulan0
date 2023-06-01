@@ -13,15 +13,15 @@
 <span><img src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true" height=188/></span>&nbsp;<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-clan&layout=compact&langs_count=5card_width=466" height=188/></span>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.7%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-🌆 Daytime                413 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
-🌃 Evening                551 commits         ██████████░░░░░░░░░░░░░░░   40.43 % 
-🌙 Night                  256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+🌞 Morning                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+🌆 Daytime                414 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌃 Evening                551 commits         ██████████░░░░░░░░░░░░░░░   40.40 % 
+🌙 Night                  256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
 ```
 
 
@@ -34,13 +34,13 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ██████████████████████░░░   88.89 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   25 repos            ██████████████████████░░░   89.29 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 31/05/2023 18:34:38 UTC
+ Last Updated on 01/06/2023 18:35:56 UTC
 <!--END_SECTION:waka-->
