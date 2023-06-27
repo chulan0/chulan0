@@ -4,5 +4,9 @@
 
 ## 💻 Stats
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true&rank_icon=percentile" height=188/></span>
-&nbsp;<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-clan&layout=donut&langs_count=8" height=188/></span>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true&rank_icon=percentile"  alt=""/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-clan&layout=compact&langs_count=8&card_width=320"  alt=""/>
+</a>
