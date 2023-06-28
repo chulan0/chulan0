@@ -5,8 +5,11 @@
 ## 💻 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true&rank_icon=percentile&card_width=320"  alt=""/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true&rank_icon=percentile&card_width=300"  alt=""/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-clan&layout=compact&langs_count=8&card_width=320"  alt=""/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu-clan&layout=compact&langs_count=8&card_width=300"  alt=""/>
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
