@@ -6,7 +6,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true&rank_icon=percentile"  alt=""/>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true&rank_icon=percentile&card_width=200"  alt=""/>
       </a>
     </td>
     <td>
@@ -14,6 +14,16 @@
         <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-telegram.png?raw=true"  alt=""/>
       </a>
     </td>
+    <td>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-%23QQ.png?raw=true"  alt=""/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">States</td>
+    <td align="center">Telegram</td>
+    <td align="center">#QQ</td>
   </tr>
 </table>
 
