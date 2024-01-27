@@ -35,12 +35,12 @@ Sunday                   383 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/convoychat">
+      <a href="https://t.me/+ZlPhIFkPp7E4NGI1">
         <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-telegram.png?raw=true"  alt=""/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/convoychat">
+      <a href="https://pd.qq.com/s/8rwhzt4ox">
         <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-%23QQ.png?raw=true"  alt=""/>
       </a>
     </td>
