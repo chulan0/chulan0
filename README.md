@@ -26,9 +26,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Telegram</td>
-    <td align="center">WeChat</td>
-    <td align="center">#QQ</td>
+    <td align="center">Telegram（Recommend）</td>
+    <td align="center">WeChat（推荐）</td>
+    <td align="center">#QQ（备用）</td>
   </tr>
 </table>
 
