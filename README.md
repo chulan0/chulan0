@@ -25,18 +25,17 @@ Sunday                   383 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ---
 <table>
   <tr>
-    <td align="center">统计</td>
-    <td align="center" colspan="2">互动</td>
+    <td align="center" colspan="3">互动</td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wu-clan&count_private=true&show_icons=true&rank_icon=percentile&card_width=200"  alt=""/>
+      <a href="https://t.me/+ZlPhIFkPp7E4NGI1">
+        <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-telegram.png?raw=true"  alt=""/>
       </a>
     </td>
     <td>
-      <a href="https://t.me/+ZlPhIFkPp7E4NGI1">
-        <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-telegram.png?raw=true"  alt=""/>
+      <a href="https://pd.qq.com/s/8rwhzt4ox">
+        <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-weChat.png?raw=true"  alt=""/>
       </a>
     </td>
     <td>
@@ -46,8 +45,8 @@ Sunday                   383 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
     </td>
   </tr>
   <tr>
-    <td align="center">States</td>
     <td align="center">Telegram</td>
+    <td align="center">WeChat</td>
     <td align="center">#QQ</td>
   </tr>
 </table>
