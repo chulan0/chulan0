@@ -2,8 +2,6 @@
 
 ![](https://count.getloli.com/get/@:wu-clan?theme=asoul)
 
----
-
 <table>
   <tr>
     <td align="center" colspan="3">互动</td>
@@ -26,9 +24,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Telegram（Recommend）</td>
+    <td align="center">TG</td>
     <td align="center">WeChat（推荐）</td>
-    <td align="center">#QQ（备用）</td>
+    <td align="center">#QQ</td>
   </tr>
 </table>
 
