@@ -4,8 +4,9 @@
 
 <table>
   <tr>
-    <td align="center">统计</td>
-    <td align="center" colspan="2">互动</td>
+    <td align="center">Stats</td>
+    <td align="center">WeChat</td>
+    <td align="center">#QQ</td>
   </tr>
   <tr>
     <td>
@@ -14,7 +15,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/wu-clan">
+      <a href="https://pd.qq.com/s/8rwhzt4ox">
         <img height=200 align="center" src="https://github.com/wu-clan/image/blob/master/wu-clan-weChat.png?raw=true"  alt=""/>
       </a>
     </td>
@@ -25,9 +26,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center">Stats</td>
-    <td align="center">WeChat（推荐）</td>
-    <td align="center">#QQ</td>
+    <td align="center">个人 GitHub 统计</td>
+    <td align="center">非永久有效，过期加QQ获取</td>
+    <td align="center">永久有效，强制实名制</td>
   </tr>
 </table>
 
