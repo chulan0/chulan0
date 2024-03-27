@@ -2,6 +2,9 @@
 
 ![](https://count.getloli.com/get/@:wu-clan?theme=asoul)
 
+> [!WARNING]
+> 积极找工作 ing，base 郑州，硬性学历（本科）要求抱歉，欢迎感兴趣的朋友与我联系，谢谢🙏
+
 <table>
   <tr>
     <td align="center">Stats</td>
