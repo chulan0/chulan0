@@ -1,6 +1,8 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&lines=你好,+欢迎光临;Hello,+welcome)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&lines=随缘蹲工作（bass郑州）)](https://git.io/typing-svg)
 
 ![](https://count.getloli.com/get/@:wu-clan?theme=asoul)
+
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&lines=随缘蹲工作（bass郑州）)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -27,8 +29,8 @@
   </tr>
   <tr>
     <td align="center">个人 GitHub 统计</td>
-    <td align="center">备注来意，群聊请加 #QQ</td>
-    <td align="center">群聊通道</td>
+    <td align="center">备注来意</td>
+    <td align="center">社区通道</td>
   </tr>
 </table>
 
