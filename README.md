@@ -1,8 +1,6 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&lines=随缘蹲工作（bass郑州）)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&lines=你好（Hello，How-are-you?）)](https://git.io/typing-svg)
 
 ![](https://count.getloli.com/get/@:wu-clan?theme=asoul)
-
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&lines=随缘蹲工作（bass郑州）)](https://git.io/typing-svg)
 
 <table>
   <tr>
